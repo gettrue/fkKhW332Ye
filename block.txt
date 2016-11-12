@@ -1,3 +1,3 @@
 [Adblock Plus 2.7.1]
 ||www.wsj.com^
-print.gif
+||toyokeizai.net/common/images/v4/common/logo.png
