@@ -1,4 +1,0 @@
-[Adblock Plus 2.7.1]
-||www.wsj.com^
-amazon.co.jp##.nav-fill
-edxp.com#@#.bottomad
