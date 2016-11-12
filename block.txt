@@ -1,4 +1,1 @@
 [Adblock Plus 2.7.1]
-||www.wsj.com^
-||toyokeizai.net/common/images/v4/common/logo.png
-toyokeizai.net##.title-parts
