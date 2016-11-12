@@ -4318,14 +4318,6 @@
 ^google_afc.
 ^google_afc^
 ^google_afc_
-^googlead-
-^googlead.
-^googlead^
-^googlead_
-^googleadsense-
-^googleadsense.
-^googleadsense^
-^googleadsense_
 ^heatmap-$third-party
 ^heatmap.$third-party
 ^heatmap^$third-party
@@ -8293,7 +8285,6 @@ _yahooads_
 ||google.*/uds/afs/
 ||id.google.*/verify/
 ||video-stats.video.google.com^
-||googleadservices.com^
 ||imasdk.googleapis.com^
 ||googleplugin.ru^
 ||googlesyndication.com^
