@@ -1,19 +1,6 @@
 [Adblock Plus 2.7.1]
-! Checksum: VYHXolFf2MQ4W0pPvkUbcQ
-! Homepage: https://github.com/k2jp/abp-japanese-filters/
-! Title: ABP Japanese filters (ONLY FOR Japanese and experienced users: READ Support Policy)
-! Expires: 6 hours
-! Version: 201611091627
-!
-! Last modified: 2016-11-09 16:27 JST(UTC+0900)
-! Change log: https://github.com/k2jp/abp-japanese-filters/wiki/FilterChangeLog
-! Code license: GNU GPL v3: http://www.gnu.org/licenses/gpl.html
-! Content license: Creative Commons BY-NC-SA 4.0 http://creativecommons.org/licenses/by-nc-sa/4.0/
-! Support policy:  https://github.com/k2jp/abp-japanese-filters/wiki/Support_Policy
-! Project owners: k2japan
-! Project committers: looter, lostincarnation, tanahata
-! Project contributors: 
-!
+itmedia.co.jp###ARBANNER
+jp.mobile.reuters.com##.mpu_ad
 !
 ! ########## Temporary white list START ##########
 ! Workaround to avoid a "ReferenceError: YMAP is not defined" false positive with the script ended with meaningless "?_t=pPc" like http://map.yahoo.co.jp/js/scroll.js?_t=pPc, using ^ppc^ Pay-Per-Click filter, reported via Issue Report, Jul 15, 2014
