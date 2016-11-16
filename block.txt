@@ -1,7 +1,7 @@
 [Adblock Plus 2.7.1]
-!itmedia.co.jp###ARBANNER
-!jp.mobile.reuters.com##.mpu_ad
-!ejje.weblio.jp###header
+itmedia.co.jp###ARBANNER
+jp.mobile.reuters.com##.mpu_ad
+ejje.weblio.jp###header
 ejje.weblio.jp##.adBannerHd
-!ejje.weblio.jp##.tngWdAdBtn
+ejje.weblio.jp##.tngWdAdBtn
 
