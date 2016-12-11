@@ -7,6 +7,7 @@ ejje.weblio.jp##.tngWdAdBtn
 business.nikkeibp.co.jp###menubar
 business.nikkeibp.co.jp##.pagetop
 internet.watch.impress.co.jp###floating-social-buttons
+@@||tver.jp/css/adspace.css?v=1.0
 !
 ! ########## Temporary white list START ##########
 ! Workaround to avoid a "ReferenceError: YMAP is not defined" false positive with the script ended with meaningless "?_t=pPc" like http://map.yahoo.co.jp/js/scroll.js?_t=pPc, using ^ppc^ Pay-Per-Click filter, reported via Issue Report, Jul 15, 2014
