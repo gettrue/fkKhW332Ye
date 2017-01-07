@@ -8,6 +8,36 @@ business.nikkeibp.co.jp###menubar
 business.nikkeibp.co.jp##.pagetop
 internet.watch.impress.co.jp###floating-social-buttons
 toyokeizai.net##.pagetop-btn
+||eropasture.com/wp-content/uploads/gazo/32113673/3cf6e7d6-s.jpg
+||eropasture.com/wp-content/uploads/gazo/23608697/78a77525.jpg
+||eropasture.com/wp-content/uploads/gazo/44062482/58659971-s.jpg
+geinoueroch.com##.pickupBody
+hobonichielog.com##.mainwidget
+hobonichielog.com##.main
+geinoueroch.com##iframe
+geinoueroch.com##.sidemenu
+geinoueroch.com##.sidearea
+eropasture.com##.main-top
+eropasture.com###side_wrap
+eropasture.com##.blog-title-outer
+eropasture.com##.head_content
+hobonichielog.com###top_sub
+hobonichielog.com###masthead
+hobonichielog.com###topwidget
+hobonichielog.com##.widget-area
+hobonichielog.com###footwidget
+erogazooo.club###top_pr
+erogazooo.club###t_area
+erogazooo.club##aside
+erogazooo.club###footer
+erogazooo.club###k_area1
+erogazooo.club###kanren
+erogazooo.club###k_area2
+adult-gazou.me##.img-link
+adult-gazou.me###main-image
+adult-gazou.me##.outlink
+adult-gazou.me##.single-inner
+
 !
 ! ########## Temporary white list START ##########
 ! Workaround to avoid a "ReferenceError: YMAP is not defined" false positive with the script ended with meaningless "?_t=pPc" like http://map.yahoo.co.jp/js/scroll.js?_t=pPc, using ^ppc^ Pay-Per-Click filter, reported via Issue Report, Jul 15, 2014
